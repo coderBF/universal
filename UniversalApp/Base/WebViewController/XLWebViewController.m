@@ -45,12 +45,12 @@
     [super viewDidLoad];
     [self initWKWebView];
     //适配iOS11
-    if (@available(iOS 11.0, *)){
-        self.webView.scrollView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
-    }
-    else{
+//    if (@available(iOS 11.0, *)){
+//        self.webView.scrollView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
+//    }
+//    else{
         self.automaticallyAdjustsScrollViewInsets = NO;
-    }
+//    }
 }
 
 #pragma mark 初始化webview
