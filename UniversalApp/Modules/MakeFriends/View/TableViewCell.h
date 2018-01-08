@@ -2,8 +2,8 @@
 //  TableViewCell.h
 //  UniversalApp
 //
-//  Created by 徐阳 on 2017/8/1.
-//  Copyright © 2017年 徐阳. All rights reserved.
+//  Created by yxzc on 2017/8/1.
+//  Copyright © 2017年 yxzc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
