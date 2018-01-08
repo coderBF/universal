@@ -121,26 +121,6 @@ ThirdMacros 包含第三方框架相关的定义，例如keySecret等。只为�
 
 
 
-本文只是阐述本人近期架构的出发点和整体思路，代码的具体实现没有细说，感兴趣的可以下载源码阅读
 
-欢迎各路大神提出更好的架构思想大家一起学习交流
 
-## 下面对你也许有帮助：
 
-[Xcode 9 快速跳转到定义新姿势（Jump to Definition）](http://www.jianshu.com/p/9c81e9de272b)
-
-[适配iOS11 - UITableview UICollectionView MJRefresh下拉刷新错乱](http://www.jianshu.com/p/a6e5cc20a008)
-
-[10分钟适配 iOS 11 & iPhone X](http://www.jianshu.com/p/94d3fdc0f20d)
-
-[iOS 团队编码规范 —— 团队开发需要共同遵守的代码规范](http://www.jianshu.com/p/1f0618a2ba9b)
-
-[代码注释，教你用快捷键+代码块实现快速注释 —— 让注释不再是负担，快捷键帮你解决](http://www.jianshu.com/p/78b8693d87cd)
-
-[通用工具类宏定义 —— 进一步提升编码效率](http://www.jianshu.com/p/2c55fcfeecb5)
-
-以上属于臭码农原创，若有雷同属巧合，如有错误望指正，转载请标明来源和作者。
-
-简书地址：http://www.jianshu.com/p/d553096914ff
-
-by：臭码农
