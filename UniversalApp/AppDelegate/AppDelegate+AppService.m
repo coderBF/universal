@@ -2,8 +2,8 @@
 //  AppDelegate+AppService.m
 //  MiAiApp
 //
-//  Created by 徐阳 on 2017/5/19.
-//  Copyright © 2017年 徐阳. All rights reserved.
+//  Created by yxzc on 2017/5/19.
+//  Copyright © 2017年 yxzc. All rights reserved.
 //
 
 #import "AppDelegate+AppService.h"
